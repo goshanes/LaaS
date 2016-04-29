@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryServiceHost", "LibraryServiceHost\LibraryServiceHost.csproj", "{9D6AAE96-EFB3-4966-901B-F9EBFBE38348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceAssemblyBuilder", "ServiceAssemblyBuilder\ServiceAssemblyBuilder.csproj", "{F1FCFBB0-A8CA-470E-95CF-337A2D4F50B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D6AAE96-EFB3-4966-901B-F9EBFBE38348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6AAE96-EFB3-4966-901B-F9EBFBE38348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6AAE96-EFB3-4966-901B-F9EBFBE38348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6AAE96-EFB3-4966-901B-F9EBFBE38348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FCFBB0-A8CA-470E-95CF-337A2D4F50B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FCFBB0-A8CA-470E-95CF-337A2D4F50B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FCFBB0-A8CA-470E-95CF-337A2D4F50B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FCFBB0-A8CA-470E-95CF-337A2D4F50B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
